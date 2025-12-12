@@ -115,6 +115,12 @@ The API will be available at `http://localhost:8000`
 
 ## API Documentation
 
+### Postman Collection
+
+You can import and test the API using the Postman collection:
+
+[**Postman Collection**](https://developer-2612.postman.co/workspace/My-Workspace~435fa99a-feee-4155-8be0-f1a874c2da39/collection/27891001-d9544c2e-74ef-40d3-9951-4b6f3156d0cb?action=share&creator=27891001)
+
 ### Endpoints
 
 #### `POST /ask`
